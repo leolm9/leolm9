@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Leo Sama
+- 👀 I’m a developer
+- 🌱 I’m currently learning unity
